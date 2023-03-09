@@ -4,7 +4,7 @@
   "description": "",
   "main": "./src/bot.js",
   "scripts": {
-    "test": "nodemon ."
+    "start": "nodemon ."
   },
   "author": "Muhabcom",
   "license": "ISC",
